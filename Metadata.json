@@ -1,0 +1,20 @@
+{
+    "Author": "Jono Lewis",
+    "ContentSize": 23394,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-powershell-vm-backuprestore-tool/master/AZRM-VMBackup.ps1",
+    "DownloadCount": 1426,
+    "Id": "Azure-PowerShell-VM-5653a096",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 185,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2017-6-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script provides an automated backup and restore capability for Azure Backup.",
+    "Title": "Azure PowerShell VM Backup/Restore Tool",
+    "UpdatedDate": "2017-6-7T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-powershell-vm-backuprestore-tool",
+    "UserTags": "Azure Site Recovery"
+}
